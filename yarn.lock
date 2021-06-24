@@ -14,9 +14,9 @@
   resolved "http://mirrors.tencent.com/npm/@ant-design%2ficons-svg/-/icons-svg-4.1.0.tgz#480b025f4b20ef7fe8f47d4a4846e4fee84ea06c"
   integrity sha512-Fi03PfuUqRs76aI3UWYpP864lkrfPo0hluwGqh7NJdLhvH4iRDc3jbJqZIvRDLHKbXrvAfPPV3+zjUccfFvWOQ==
 
-"@ant-design/icons@^4.6.2":
+"@ant-design/icons@4.6.2", "@ant-design/icons@^4.6.2":
   version "4.6.2"
-  resolved "http://mirrors.tencent.com/npm/@ant-design%2ficons/-/icons-4.6.2.tgz#290f2e8cde505ab081fda63e511e82d3c48be982"
+  resolved "https://registry.yarnpkg.com/@ant-design/icons/-/icons-4.6.2.tgz#290f2e8cde505ab081fda63e511e82d3c48be982"
   integrity sha512-QsBG2BxBYU/rxr2eb8b2cZ4rPKAPBpzAR+0v6rrZLp/lnyvflLH3tw1vregK+M7aJauGWjIGNdFmUfpAOtw25A==
   dependencies:
     "@ant-design/colors" "^6.0.0"
@@ -513,9 +513,9 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
-antd@^4.16.5:
+antd@4.16.5:
   version "4.16.5"
-  resolved "https://mirrors.tencent.com/npm/antd/-/antd-4.16.5.tgz#6105bd848fb2e468e0d1d3ec024c82d2516587ef"
+  resolved "https://registry.yarnpkg.com/antd/-/antd-4.16.5.tgz#6105bd848fb2e468e0d1d3ec024c82d2516587ef"
   integrity sha512-HOPqJWdncFsviMisff7KUM77wwmIlSCfS6J0LAs3D/VP7pRCqo1YQLkdBJ77wxRjS60rwe8KDDayulohiTSoBQ==
   dependencies:
     "@ant-design/colors" "^6.0.0"
@@ -1677,9 +1677,9 @@ language-tags@^1.0.5:
   dependencies:
     language-subtag-registry "~0.3.2"
 
-less@^4.1.1:
+less@4.1.1:
   version "4.1.1"
-  resolved "https://mirrors.tencent.com/npm/less/-/less-4.1.1.tgz#15bf253a9939791dc690888c3ff424f3e6c7edba"
+  resolved "https://registry.yarnpkg.com/less/-/less-4.1.1.tgz#15bf253a9939791dc690888c3ff424f3e6c7edba"
   integrity sha512-w09o8tZFPThBscl5d0Ggp3RcrKIouBoQscnOMgFH3n5V3kN/CXGHNfCkRPtxJk6nKryDXaV9aHLK55RXuH4sAw==
   dependencies:
     copy-anything "^2.0.1"
@@ -3011,9 +3011,9 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vite-plugin-importer@^0.2.3:
+vite-plugin-importer@0.2.3:
   version "0.2.3"
-  resolved "https://mirrors.tencent.com/npm/vite-plugin-importer/-/vite-plugin-importer-0.2.3.tgz#df3bdbe4fc4d4e51e4f28f215830237ed9c5c3d4"
+  resolved "https://registry.yarnpkg.com/vite-plugin-importer/-/vite-plugin-importer-0.2.3.tgz#df3bdbe4fc4d4e51e4f28f215830237ed9c5c3d4"
   integrity sha512-/LkJOqR9ZmqMG1yOF+VzsPGcrNPkf3cqQq1T7XphCIE+5mpEM1W1D1mR8qcRea14nwMz1sOdSB4zjsH5jmuW0A==
   dependencies:
     "@babel/core" "^7.12.17"
