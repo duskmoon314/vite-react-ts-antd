@@ -3025,10 +3025,10 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vite-plugin-importer@0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/vite-plugin-importer/-/vite-plugin-importer-0.2.3.tgz#df3bdbe4fc4d4e51e4f28f215830237ed9c5c3d4"
-  integrity sha512-/LkJOqR9ZmqMG1yOF+VzsPGcrNPkf3cqQq1T7XphCIE+5mpEM1W1D1mR8qcRea14nwMz1sOdSB4zjsH5jmuW0A==
+vite-plugin-importer@0.2.4:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/vite-plugin-importer/-/vite-plugin-importer-0.2.4.tgz#675987d55016cc6d9225d30bdfa9accfb2720df3"
+  integrity sha512-rL6femmALNUx7x4hz4CSubzU7sR/WCaWJXNSpIiWCHVe1oBQ92PWiF+1LY1UDk2mFdIocGsTZ9/benFFoEbL4w==
   dependencies:
     "@babel/core" "^7.12.17"
     "@babel/plugin-syntax-import-meta" "^7.10.4"
