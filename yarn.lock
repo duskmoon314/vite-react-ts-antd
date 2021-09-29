@@ -3351,10 +3351,10 @@ vite-plugin-importer@0.2.5:
     "@babel/plugin-syntax-import-meta" "^7.10.4"
     babel-plugin-import "^1.13.3"
 
-vite@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.6.0.tgz#91392de5188257e26fc4c0dd9fb91d7fcad2a72d"
-  integrity sha512-JNUJ0D/Cx4+xLD0BVy+nnUn2CECKMTR9eUKsvw/pfkG+hhVJFzFyCL5PK1eYV1ehNDIgr8Zl3jWjvwLwZWstLA==
+vite@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.6.1.tgz#2e17908fa865d962d5fe33631df09c99e7ec486e"
+  integrity sha512-rYd+iGMQ+AytWfYBDhIz2upeiseuqrAMwmApJDR40wu12C9MqzemX449nM3FN1Z/FFSV+fMTFz7eMenngVSogA==
   dependencies:
     esbuild "^0.13.2"
     postcss "^8.3.8"
